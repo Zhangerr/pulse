@@ -28,7 +28,9 @@ I've been trying to get Pulse running on my new computer, but it seems the Lua i
 -  OpenTK forums (more esoteric questions)
 
 
-### Videos (add timestamps to see how development progressed, shame no examples of networking functionality, in game scores, spectating, watching replays, chat)
+### Gameplay Videos
+
+(add timestamps to see how development progressed, shame no examples of networking functionality, in game scores, spectating, watching replays, chat)
 
 
 http://www.youtube.com/watch?v=hwhB4Sii6ZI
