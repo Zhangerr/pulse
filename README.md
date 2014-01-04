@@ -30,15 +30,28 @@ I've been trying to get Pulse running on my new computer, but it seems the Lua i
 
 ### Gameplay Videos
 
-(add timestamps to see how development progressed, shame no examples of networking functionality, in game scores, spectating, watching replays, chat)
+Chronologically ordered
 
+Earliest version with lackluster graphics, but basic concept of gameplay existed
 
-http://www.youtube.com/watch?v=hwhB4Sii6ZI
+http://www.youtube.com/watch?v=T8Iw6ROR3Cg
+
+Next iteration, graphics slightly improved and more visible
 
 http://www.youtube.com/watch?v=vwAnm_6ZTzI
 
+Further down the line, with revamped menu screen
+
 http://www.youtube.com/watch?v=o3AydGJgHEk
 
-http://www.youtube.com/watch?v=T8Iw6ROR3Cg
+One of the final builds, nice looking in game animations
+
+http://www.youtube.com/watch?v=hwhB4Sii6ZI
+
+
+
+
+
+
 
 
