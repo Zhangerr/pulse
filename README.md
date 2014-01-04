@@ -7,9 +7,9 @@ Pulse was actively developed from 2011-2012 and in its final stages had online c
 -  a forum,
 -  a custom server, spectating and watching replays and viewing scoreboards in game
 -  and a high level of customizability (users could replace visual elements of the user interface as they see fit and distribute these customizations as 'skins). Used lua as well
--  an custom updater that compared md5 hashes to do incremental updates, only updating the changed
+-  an custom updater that compared md5 hashes to do incremental updates, only updating the changed, and a tool to push out updates easily
 
- However, due to unfortunate circumstances, the server and the corresponding services it hosted (web site/forums, irc, the pulse server) were shut down and deleted
+However, due to unfortunate circumstances, the server and the corresponding services it hosted (web site/forums, irc, the pulse server) were shut down and deleted
  
 I've been trying to get Pulse running on my new computer, but it seems the Lua interpreter we're using has some dependency that my old computer somehow satisfied but my new one cannot, even after installing the required C++ redistributable.
 
