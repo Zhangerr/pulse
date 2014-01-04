@@ -18,13 +18,15 @@ I've been trying to get Pulse running on my new computer, but it seems the Lua i
 
 ### Technologies (make links)
 -  C#
--  OpenTK (OpenGL Wrapper)
--  BASS.NET
--  Lua (via LuaInterface)
--  Ionic Zip
--  Stackoverflow
--  OpenTK forums
--  AviFile
+-  [OpenTK](http://www.opentk.com/) (OpenGL Wrapper, used for all graphics)
+-  [BASS.NET](http://www.un4seen.com/) (Audio library)
+-  [Lua](http://www.lua.org/) (via [LuaInterface](https://code.google.com/p/luainterface/), used for skinning) 
+-  [Ionic Zip](http://dotnetzip.codeplex.com/), used for reading charts
+
+### Resources
+-  Stackoverflow (so many questions answered)
+-  OpenTK forums (more esoteric questions)
+
 
 ### Videos (add timestamps to see how development progressed, shame no examples of networking functionality, in game scores, spectating, watching replays, chat)
 
