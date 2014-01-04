@@ -1,0 +1,79 @@
+Type /close to close this tab.
+Welcome to pulse chat! Press F2 to maximize/minimize chat.
+connecting to irc...
+Connected to exp.ulse.net!
+:exp.ulse.net NOTICE AUTH :*** Looking up your hostname...
+:exp.ulse.net NOTICE AUTH :*** Found your hostname (cached)
+:exp.ulse.net 451 JOIN :You have not registered
+:exp.ulse.net 001 nop|pulse :Welcome to the PulseIRC IRC Network nop|pulse!guest@adsl-75-31-109-192.dsl.irvnca.sbcglobal.net
+:exp.ulse.net 002 nop|pulse :Your host is exp.ulse.net, running version Unreal3.2.9
+:exp.ulse.net 003 nop|pulse :This server was created Sat Nov  5 10:20:48 2011
+:exp.ulse.net 004 nop|pulse exp.ulse.net Unreal3.2.9 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:exp.ulse.net 005 nop|pulse CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:exp.ulse.net 005 nop|pulse MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=PulseIRC CASEMAPPING=ascii EXTBAN=~,qjncrR ELIST=MNUCT :are supported by this server
+:exp.ulse.net 005 nop|pulse STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:exp.ulse.net 251 nop|pulse :There are 9 users and 13 invisible on 2 servers
+:exp.ulse.net 252 nop|pulse 13 :operator(s) online
+:exp.ulse.net 254 nop|pulse 7 :channels formed
+:exp.ulse.net 255 nop|pulse :I have 12 clients and 1 servers
+:exp.ulse.net 265 nop|pulse :Current Local Users: 12  Max: 17
+:exp.ulse.net 266 nop|pulse :Current Global Users: 22  Max: 27
+:exp.ulse.net 375 nop|pulse :- exp.ulse.net Message of the Day - 
+:exp.ulse.net 372 nop|pulse :- 1/1/1970 1:00
+:exp.ulse.net 372 nop|pulse :-                                                              
+:exp.ulse.net 372 nop|pulse :-                                                               
+:exp.ulse.net 372 nop|pulse :-                                              _pgMNgg_         
+:exp.ulse.net 372 nop|pulse :-                                             pN~  _gZQ&,       
+:exp.ulse.net 372 nop|pulse :-                            ______          ]$  q#M~`  `       
+:exp.ulse.net 372 nop|pulse :-                      ,pgMM000MMN0#M0gg_    B y0'              
+:exp.ulse.net 372 nop|pulse :-                   p4M#~^            ^700m, 4 0^               
+:exp.ulse.net 372 nop|pulse :-                ,N0~^                     M0QQ'                
+:exp.ulse.net 372 nop|pulse :-              ,Q#^                          ^Qg,               
+:exp.ulse.net 372 nop|pulse :-            _M#`                              `0g              
+:exp.ulse.net 372 nop|pulse :-           g0'                                  #D,            
+:exp.ulse.net 372 nop|pulse :-          p0                -                    M0            Welcome to PulseIRC
+:exp.ulse.net 372 nop|pulse :-         j@                         ]             BQ           
+:exp.ulse.net 372 nop|pulse :-        ]0          -g             g& mw           Nf          Obvious rules apply
+:exp.ulse.net 372 nop|pulse :-        0'        _g##   c     , ~0M&q0b       c ! ]0          you still don't get
+:exp.ulse.net 372 nop|pulse :-       jT         0EE1  #     _!_0M 1:#M6 _pMp/$ ]  M          For an overview on 
+:exp.ulse.net 372 nop|pulse :-       Q  j   ,  ` ~BL jE    ,y&QM _L#\-1  & 0&#Wj  M          http://rep.ulse.net
+:exp.ulse.net 372 nop|pulse :-       0  $  ]6    jM  ]H   pQOKX  ]QX  #  4c]L0gM& 0f         
+:exp.ulse.net 372 nop|pulse :-       # p&  B  K#06]6,#  ,_QC0!   B8   #  _#e@~_q0 0          
+:exp.ulse.net 372 nop|pulse :-       # $A j0  WM9qMNB#,#Q#R#^   g0g   4gM~^,p0MN  M          
+:exp.ulse.net 372 nop|pulse :-       M|R0 :N l#0 ]M00###Q&P     #0Nc  ]AgNM0 BM& ]8          
+:exp.ulse.net 372 nop|pulse :-       #U0N [QU[Qf ]0000~KM^      ##0A  ]~Z0006 BH #           
+:exp.ulse.net 372 nop|pulse :-       ]&WNg;#&[N  ]MMT  `        M#N#  RB00NQMpN  M           
+:exp.ulse.net 372 nop|pulse :-        0N&0j#B@#  [M0I           M00M  ##KNM#$#M Jf           
+:exp.ulse.net 372 nop|pulse :-        ^01`&0 &X  #00I           00M0 ]&#MNB#0&q 0            
+:exp.ulse.net 372 nop|pulse :-         ~I "# B8  BNN1           0M08 MMNNW0NMNH]f            All in all, HAVE FU
+:exp.ulse.net 372 nop|pulse :-          `  `NX`  #M0            MM0!  #'l#~ jET0             
+:exp.ulse.net 372 nop|pulse :-              #c    ``            *0#  4  ]0_p#00'             
+:exp.ulse.net 372 nop|pulse :-               #N                      jYQ0#BM010              
+:exp.ulse.net 372 nop|pulse :-               #`Mmg_     l~"*      _p0` 4MM&wm0M              
+:exp.ulse.net 372 nop|pulse :-              ]L8 M@MMMgpa,,,, ,gpm#0#0# g0kMMM0R              
+:exp.ulse.net 372 nop|pulse :-              M~6 M0&&NQQ&BN0@ 0gRNq##N  0##MQRQQ,             
+:exp.ulse.net 372 nop|pulse :-             j& # ]&0Q#0NBN##g0#7N&&&GWg*0#0#K##0&             
+:exp.ulse.net 372 nop|pulse :-            yP  ~6*0MMZQ&M1 0~_,pq#M&#0  WMx#Z0$&Bt            
+:exp.ulse.net 372 nop|pulse :-           _0   y6 N&O0Y]^_MM"~    BN#MNmQKSK!&@#&0,           
+:exp.ulse.net 372 nop|pulse :-           0 q  mN87Q0@M4#0M0, 1  =y&EQ' EWMM9"bQMf0           
+:exp.ulse.net 372 nop|pulse :-          j'4#  O0gn0ZEM#/0#P^ jN*"Q:ME&mNgr,q9\Q#&^&          
+:exp.ulse.net 372 nop|pulse :-          T_## ]MW#,jL0X   `'  #NM~Mjrr0 +0bjN3^0#m B          
+:exp.ulse.net 372 nop|pulse :-         lL# B  }QJQ#M~#_yp   _g##  NgrQFg##&j%6# 0 ]f         
+:exp.ulse.net 372 nop|pulse :-         ]N  ]f _0#9_ B"ZE"&m0&7&Mp  ~&_&0M0Q0Ng# `&41         
+:exp.ulse.net 372 nop|pulse :-          0   0c@Pe)NRg_T  M\ # "y0_   4&4qgX#E0'  Kj1         
+:exp.ulse.net 372 nop|pulse :-          !    0jA]g ]bqZ0@MNMMMM&#Mg#@MmgN' Hgf    0f         
+:exp.ulse.net 372 nop|pulse :-                4R "g ]Mc  `##T   4Q6k8sR~   Q9     0          
+:exp.ulse.net 372 nop|pulse :-                    `#d &   |##   "&@]\F    pF      )          
+:exp.ulse.net 372 nop|pulse :-                      ~!^L,,N&p&,m0Q 0~     '                  
+:exp.ulse.net 372 nop|pulse :-                         MNQ0@']pB0M                           
+:exp.ulse.net 372 nop|pulse :-                        ]@Q&#&  N0K0I -                        
+:exp.ulse.net 372 nop|pulse :-                          &0MY  #MMM'                          
+:exp.ulse.net 372 nop|pulse :-                           `    ~M@'                           
+:exp.ulse.net 372 nop|pulse :- 
+:exp.ulse.net 372 nop|pulse :-                                                              
+:exp.ulse.net 376 nop|pulse :End of /MOTD command.
+:nop|pulse MODE nop|pulse :+iwx
+:exp.ulse.net 332 nop|pulse #pulse :Pulse IRC! :: #pulse - main chat :: version .251 now available on the updater! 8key support!
+:exp.ulse.net 333 nop|pulse #pulse alex 1322459947
+:exp.ulse.net 353 nop|pulse = #pulse :nop|pulse +MMzz @alex dkun +Sync daru @matt @jay &pulsar ~Corin Corin|SV &PulseBOT 
+:exp.ulse.net 366 nop|pulse #pulse :End of /NAMES list.

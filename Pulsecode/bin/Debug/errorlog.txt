@@ -1,0 +1,240 @@
+10/5/2011 9:17:52 PM: Fatal error: Invalid XML document. The document does not have a root element.
+   at System.Xml.XmlDocument.Save(String filename)
+   at Pulse.ScoreLibrary.serializeScores(List`1 scores, String name) in C:\Users\Alex\Desktop\9292pulse\Pulsecode\ScoreLibrary.cs:line 85
+   at Pulse.Screens.SelectScreen.updateScoreLabels(Int32 e) in C:\Users\Alex\Desktop\9292pulse\Pulsecode\Screens\SelectScreen.cs:line 849
+   at Pulse.Screens.SelectScreen.updateDiffs() in C:\Users\Alex\Desktop\9292pulse\Pulsecode\Screens\SelectScreen.cs:line 944
+   at Pulse.Screens.SelectScreen.pickDiffs() in C:\Users\Alex\Desktop\9292pulse\Pulsecode\Screens\SelectScreen.cs:line 1023
+   at Pulse.Screens.SelectScreen.sc_clickEvent(Int32 obj, SelectComponent obj2) in C:\Users\Alex\Desktop\9292pulse\Pulsecode\Screens\SelectScreen.cs:line 526
+   at Pulse.UI.SelectComponent.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulsecode\UI\SelectComponent.cs:line 91
+   at Pulse.Mechanics.SongPair.draw(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulsecode\Mechanics\SongPair.cs:line 24
+   at Pulse.Screens.SelectScreen.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulsecode\Screens\SelectScreen.cs:line 965
+   at Pulse.Game.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulsecode\Game.cs:line 459
+   at OpenTK.GameWindow.OnRenderFrameInternal(FrameEventArgs e)
+   at OpenTK.GameWindow.RaiseRenderFrame(Stopwatch render_watch, Double& next_render, FrameEventArgs render_args)
+   at OpenTK.GameWindow.DispatchUpdateAndRenderFrame(Object sender, EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulsecode\Game.cs:line 578
+11/5/2011 4:42:24 PM: Fatal error: WebClient does not support concurrent I/O operations.
+   at System.Net.WebClient.ClearWebClientState()
+   at System.Net.WebClient.DownloadFileAsync(Uri address, String fileName, Object userToken)
+   at System.Net.WebClient.DownloadFileAsync(Uri address, String fileName)
+   at Pulse.Screens.MenuScreen.downloadAvatar() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\MenuScreen.cs:line 68
+   at Pulse.Screens.MenuScreen.<OnLoad>b__6() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\MenuScreen.cs:line 118
+   at Pulse.UI.Button.onpress() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\Button.cs:line 102
+   at Pulse.UI.Button.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\Button.cs:line 70
+   at Pulse.Screens.Screen.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\Screen.cs:line 138
+   at Pulse.Screens.MenuScreen.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\MenuScreen.cs:line 239
+   at Pulse.Game.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 455
+   at OpenTK.GameWindow.OnRenderFrameInternal(FrameEventArgs e)
+   at OpenTK.GameWindow.RaiseRenderFrame(Stopwatch render_watch, Double& next_render, FrameEventArgs render_args)
+   at OpenTK.GameWindow.DispatchUpdateAndRenderFrame(Object sender, EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 574
+11/5/2011 4:43:06 PM: Fatal error: WebClient does not support concurrent I/O operations.
+   at System.Net.WebClient.ClearWebClientState()
+   at System.Net.WebClient.DownloadFileAsync(Uri address, String fileName, Object userToken)
+   at System.Net.WebClient.DownloadFileAsync(Uri address, String fileName)
+   at Pulse.Screens.MenuScreen.downloadAvatar() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\MenuScreen.cs:line 68
+   at Pulse.Screens.MenuScreen.<OnLoad>b__6() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\MenuScreen.cs:line 118
+   at Pulse.UI.Button.onpress() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\Button.cs:line 102
+   at Pulse.UI.Button.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\Button.cs:line 70
+   at Pulse.Screens.Screen.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\Screen.cs:line 138
+   at Pulse.Screens.MenuScreen.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\MenuScreen.cs:line 239
+   at Pulse.Game.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 455
+   at OpenTK.GameWindow.OnRenderFrameInternal(FrameEventArgs e)
+   at OpenTK.GameWindow.RaiseRenderFrame(Stopwatch render_watch, Double& next_render, FrameEventArgs render_args)
+   at OpenTK.GameWindow.DispatchUpdateAndRenderFrame(Object sender, EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 574
+11/5/2011 4:43:24 PM: Fatal error: WebClient does not support concurrent I/O operations.
+   at System.Net.WebClient.ClearWebClientState()
+   at System.Net.WebClient.DownloadFileAsync(Uri address, String fileName, Object userToken)
+   at System.Net.WebClient.DownloadFileAsync(Uri address, String fileName)
+   at Pulse.Screens.MenuScreen.downloadAvatar() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\MenuScreen.cs:line 68
+   at Pulse.Screens.MenuScreen.<OnLoad>b__6() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\MenuScreen.cs:line 118
+   at Pulse.UI.Button.onpress() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\Button.cs:line 102
+   at Pulse.UI.Button.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\Button.cs:line 70
+   at Pulse.Screens.Screen.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\Screen.cs:line 138
+   at Pulse.Screens.MenuScreen.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\MenuScreen.cs:line 239
+   at Pulse.Game.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 455
+   at OpenTK.GameWindow.OnRenderFrameInternal(FrameEventArgs e)
+   at OpenTK.GameWindow.RaiseRenderFrame(Stopwatch render_watch, Double& next_render, FrameEventArgs render_args)
+   at OpenTK.GameWindow.DispatchUpdateAndRenderFrame(Object sender, EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 574
+11/12/2011 12:38:59 AM: Fatal error: Object reference not set to an instance of an object.
+   at Pulse.Screens.MenuScreen.downloadAvatar() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\MenuScreen.cs:line 73
+   at Pulse.Screens.MenuScreen.<OnLoad>b__6() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\MenuScreen.cs:line 141
+   at Pulse.UI.Button.onpress() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\Button.cs:line 102
+   at Pulse.UI.Button.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\Button.cs:line 70
+   at Pulse.Screens.Screen.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\Screen.cs:line 138
+   at Pulse.Screens.MenuScreen.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\MenuScreen.cs:line 262
+   at Pulse.Game.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 455
+   at OpenTK.GameWindow.OnRenderFrameInternal(FrameEventArgs e)
+   at OpenTK.GameWindow.RaiseRenderFrame(Stopwatch render_watch, Double& next_render, FrameEventArgs render_args)
+   at OpenTK.GameWindow.DispatchUpdateAndRenderFrame(Object sender, EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 574
+11/12/2011 1:33:49 AM: Fatal error: Object reference not set to an instance of an object.
+   at Pulse.Screens.MenuScreen.OnLoad(EventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\MenuScreen.cs:line 166
+   at Pulse.Game.set_Active(Screen value) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 72
+   at Pulse.Game.OnLoad(EventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 247
+   at OpenTK.GameWindow.OnLoadInternal(EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 576
+11/21/2011 5:02:14 PM: Fatal error: Object reference not set to an instance of an object.
+   at Pulse.UI.PTextBox..ctor(Game game, Rectangle bounds, String text, IrcClient client) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\PTextBox.cs:line 57
+   at Pulse.Screens.MenuScreen.OnLoad(EventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\MenuScreen.cs:line 172
+   at Pulse.Game.set_Active(Screen value) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 76
+   at Pulse.Game.OnLoad(EventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 262
+   at OpenTK.GameWindow.OnLoadInternal(EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 608
+11/25/2011 11:23:23 AM: Fatal error: Index was outside the bounds of the array.
+   at System.String.get_Chars(Int32 index)
+   at Pulse.Text.getStringSizePBox(String text, Font f) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Text.cs:line 125
+   at Pulse.UI.PTextBox.updateCaret() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\PTextBox.cs:line 143
+   at Pulse.UI.PTextBox..ctor(Game game, Rectangle bounds, String text, IrcClient client) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\PTextBox.cs:line 67
+   at Pulse.Game.OnLoad(EventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 280
+   at OpenTK.GameWindow.OnLoadInternal(EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 657
+11/25/2011 9:32:22 PM: Fatal error: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Pulse.UI.PTextBox.Keyboard_KeyDown(Object sender, KeyboardKeyEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\PTextBox.cs:line 204
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at OpenTK.Input.KeyboardDevice.set_Item(Key key, Boolean value)
+   at OpenTK.Platform.Windows.WinGLNative.WindowProcedure(IntPtr handle, WindowMessage message, IntPtr wParam, IntPtr lParam)
+   at OpenTK.Platform.Windows.Functions.DispatchMessage(MSG& msg)
+   at OpenTK.Platform.Windows.WinGLNative.ProcessEvents()
+   at OpenTK.NativeWindow.ProcessEvents(Boolean retainEvents)
+   at OpenTK.NativeWindow.ProcessEvents()
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 657
+11/26/2011 12:17:15 AM: Fatal error: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Pulse.UI.PTextBox.updateSelect() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\PTextBox.cs:line 162
+   at Pulse.UI.PTextBox.Keyboard_KeyDown(Object sender, KeyboardKeyEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\PTextBox.cs:line 213
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at OpenTK.Input.KeyboardDevice.set_Item(Key key, Boolean value)
+   at OpenTK.Platform.Windows.WinGLNative.WindowProcedure(IntPtr handle, WindowMessage message, IntPtr wParam, IntPtr lParam)
+   at OpenTK.Platform.Windows.Functions.DispatchMessage(MSG& msg)
+   at OpenTK.Platform.Windows.WinGLNative.ProcessEvents()
+   at OpenTK.NativeWindow.ProcessEvents(Boolean retainEvents)
+   at OpenTK.NativeWindow.ProcessEvents()
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 657
+11/26/2011 12:20:35 AM: Fatal error: Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Pulse.UI.PTextBox.updateSelect() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\PTextBox.cs:line 162
+   at Pulse.UI.PTextBox.Keyboard_KeyDown(Object sender, KeyboardKeyEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\PTextBox.cs:line 213
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at OpenTK.Input.KeyboardDevice.set_Item(Key key, Boolean value)
+   at OpenTK.Platform.Windows.WinGLNative.WindowProcedure(IntPtr handle, WindowMessage message, IntPtr wParam, IntPtr lParam)
+   at OpenTK.Platform.Windows.Functions.DispatchMessage(MSG& msg)
+   at OpenTK.Platform.Windows.WinGLNative.ProcessEvents()
+   at OpenTK.NativeWindow.ProcessEvents(Boolean retainEvents)
+   at OpenTK.NativeWindow.ProcessEvents()
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 657
+11/26/2011 12:11:33 PM: Fatal error: Object reference not set to an instance of an object.
+   at Pulse.Client.PacketWriter.sendCheckVersion(BinaryWriter bw) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Client\PacketWriter.cs:line 30
+   at Pulse.Game.OnLoad(EventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 222
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 657
+11/26/2011 12:11:52 PM: Fatal error: Object reference not set to an instance of an object.
+   at Pulse.Client.PacketWriter.sendCheckVersion(BinaryWriter bw) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Client\PacketWriter.cs:line 30
+   at Pulse.Game.OnLoad(EventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 222
+   at OpenTK.GameWindow.OnLoadInternal(EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 657
+11/28/2011 5:53:54 PM: Fatal error: Object reference not set to an instance of an object.
+   at Pulse.Screens.PauseScreen.OnUpdateFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\PauseScreen.cs:line 186
+   at Pulse.Screens.IngameScreen.OnUpdateFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\IngameScreen.cs:line 1334
+   at Pulse.Game.OnUpdateFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 499
+   at OpenTK.GameWindow.OnUpdateFrameInternal(FrameEventArgs e)
+   at OpenTK.GameWindow.RaiseUpdateFrame(Stopwatch update_watch, Double& next_update, FrameEventArgs update_args)
+   at OpenTK.GameWindow.DispatchUpdateAndRenderFrame(Object sender, EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 680
+1/6/2012 6:28:05 PM: User : n/a Fatal error: Path cannot be null.
+Parameter name: path
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at Pulse.Utils.calcHash(String fileName) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Utils.cs:line 39
+   at Pulse.MediaPlayer.setSong(Int32 id) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\MediaPlayer.cs:line 198
+   at Pulse.MediaPlayer..ctor(Game game) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\MediaPlayer.cs:line 123
+   at Pulse.Game.OnLoad(EventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 260
+   at OpenTK.GameWindow.OnLoadInternal(EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 690
+1/16/2012 5:30:13 PM: User : alex Fatal error: Index was outside the bounds of the array.
+   at Pulse.UI.Frame..ctor(Point location, Int32 keys) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\Frame.cs:line 122
+   at Pulse.Screens.IngameScreen.initUI() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\IngameScreen.cs:line 484
+   at Pulse.Screens.IngameScreen.onSwitched() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\IngameScreen.cs:line 433
+   at Pulse.Game.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 678
+   at OpenTK.GameWindow.OnRenderFrameInternal(FrameEventArgs e)
+   at OpenTK.GameWindow.RaiseRenderFrame(Stopwatch render_watch, Double& next_render, FrameEventArgs render_args)
+   at OpenTK.GameWindow.DispatchUpdateAndRenderFrame(Object sender, EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 826
+1/17/2012 12:15:42 AM: User : alex Fatal error: Index was outside the bounds of the array.
+   at Pulse.UI.Frame..ctor(Point location, Int32 keys) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\Frame.cs:line 122
+   at Pulse.Screens.IngameScreen.initUI() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\IngameScreen.cs:line 484
+   at Pulse.Screens.IngameScreen.onSwitched() in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\IngameScreen.cs:line 433
+   at Pulse.Game.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 684
+   at OpenTK.GameWindow.RaiseRenderFrame(Stopwatch render_watch, Double& next_render, FrameEventArgs render_args)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 832
+1/19/2012 2:27:37 AM: User : alex Fatal error: Format specifier was invalid.
+   at System.Number.FormatSingle(Single value, String format, NumberFormatInfo info)
+   at System.Single.ToString(String format)
+   at Pulse.UI.UserDisplay.update(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\UserDisplay.cs:line 76
+   at Pulse.Screens.UserDisplayScreen.OnUpdateFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\UserDisplayScreen.cs:line 31
+   at Pulse.Game.OnUpdateFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 439
+   at OpenTK.GameWindow.OnUpdateFrameInternal(FrameEventArgs e)
+   at OpenTK.GameWindow.RaiseUpdateFrame(Stopwatch update_watch, Double& next_update, FrameEventArgs update_args)
+   at OpenTK.GameWindow.DispatchUpdateAndRenderFrame(Object sender, EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 856
+1/19/2012 4:44:10 PM: User : alex Fatal error: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at Pulse.Screens.UserDisplayScreen.OnUpdateFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\UserDisplayScreen.cs:line 22
+   at Pulse.Game.OnUpdateFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 439
+   at OpenTK.GameWindow.RaiseUpdateFrame(Stopwatch update_watch, Double& next_update, FrameEventArgs update_args)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 856
+1/22/2012 4:09:21 PM: User : aevia Fatal error: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at Pulse.Screens.UserDisplayScreen.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\UserDisplayScreen.cs:line 49
+   at Pulse.Game.OnRenderFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 753
+   at OpenTK.GameWindow.OnRenderFrameInternal(FrameEventArgs e)
+   at OpenTK.GameWindow.RaiseRenderFrame(Stopwatch render_watch, Double& next_render, FrameEventArgs render_args)
+   at OpenTK.GameWindow.DispatchUpdateAndRenderFrame(Object sender, EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 855
+1/23/2012 6:52:43 PM: User : alex Fatal error: Object reference not set to an instance of an object.
+   at Pulse.Game.OnUpdateFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 559
+   at OpenTK.GameWindow.OnUpdateFrameInternal(FrameEventArgs e)
+   at OpenTK.GameWindow.RaiseUpdateFrame(Stopwatch update_watch, Double& next_update, FrameEventArgs update_args)
+   at OpenTK.GameWindow.DispatchUpdateAndRenderFrame(Object sender, EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 876
+1/23/2012 6:55:44 PM: User : n/a Fatal error: Value cannot be null.
+   at System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   at System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   at Pulse.Game.OnUpdateFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 559
+   at OpenTK.GameWindow.OnUpdateFrameInternal(FrameEventArgs e)
+   at OpenTK.GameWindow.RaiseUpdateFrame(Stopwatch update_watch, Double& next_update, FrameEventArgs update_args)
+   at OpenTK.GameWindow.DispatchUpdateAndRenderFrame(Object sender, EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 882

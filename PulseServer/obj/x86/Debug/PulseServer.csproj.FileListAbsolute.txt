@@ -1,0 +1,5 @@
+C:\Users\Alex\Desktop\9292pulse\Pulse\PulseServer\bin\Debug\PulseServer.exe
+C:\Users\Alex\Desktop\9292pulse\Pulse\PulseServer\bin\Debug\PulseServer.pdb
+C:\Users\Alex\Desktop\9292pulse\Pulse\PulseServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\9292pulse\Pulse\PulseServer\obj\x86\Debug\PulseServer.exe
+C:\Users\Alex\Desktop\9292pulse\Pulse\PulseServer\obj\x86\Debug\PulseServer.pdb

@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<scoredb Version="1">
+  <score>
+    <oks>107</oks>
+    <perfects>59</perfects>
+    <goods>125</goods>
+    <misses>298</misses>
+    <maxc>9</maxc>
+    <totalscore>1577</totalscore>
+    <acc>30.22071</acc>
+    <date>1/14/2012 2:30:14 PM</date>
+    <at>xi - FREEDOM DiVE</at>
+    <cname>Hard</cname>
+    <flags>0</flags>
+    <replay>1326580215 137aa1ffcccab9d80140a7ab6f271c01</replay>
+  </score>
+  <score>
+    <oks>188</oks>
+    <perfects>92</perfects>
+    <goods>224</goods>
+    <misses>85</misses>
+    <maxc>56</maxc>
+    <totalscore>9420</totalscore>
+    <acc>51.6129</acc>
+    <date>1/16/2012 5:50:25 PM</date>
+    <at>xi - FREEDOM DiVE</at>
+    <cname>Hard</cname>
+    <flags>0</flags>
+    <replay>1326765025 137aa1ffcccab9d80140a7ab6f271c01</replay>
+  </score>
+  <score>
+    <oks>163</oks>
+    <perfects>69</perfects>
+    <goods>195</goods>
+    <misses>162</misses>
+    <maxc>23</maxc>
+    <totalscore>4502</totalscore>
+    <acc>43.01075</acc>
+    <date>1/16/2012 6:13:54 PM</date>
+    <at>xi - FREEDOM DiVE</at>
+    <cname>Hard</cname>
+    <flags>0</flags>
+    <replay>1326766434 137aa1ffcccab9d80140a7ab6f271c01</replay>
+  </score>
+</scoredb>

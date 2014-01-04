@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UpdateClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UpdateClient\obj\x86\Debug\UpdateClient.Form1.resources
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UpdateClient\obj\x86\Debug\UpdateClient.Properties.Resources.resources
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UpdateClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UpdateClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UpdateClient\bin\Debug\UpdateClient.exe
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UpdateClient\bin\Debug\UpdateClient.pdb
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UpdateClient\obj\x86\Debug\UpdateClient.exe
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UpdateClient\obj\x86\Debug\UpdateClient.pdb

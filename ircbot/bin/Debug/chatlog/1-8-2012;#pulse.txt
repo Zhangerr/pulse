@@ -1,0 +1,27 @@
+[1/8/2012 10:11:30 PM] <alex>: !help
+[1/8/2012 10:11:33 PM] <alex>: !commands
+[1/8/2012 10:11:34 PM] <alex>: !list
+[1/8/2012 10:11:54 PM] <Sync>: wb pulsar
+[1/8/2012 10:11:55 PM] <Sync>: missed U
+[1/8/2012 10:12:01 PM] <alex>: !clever i love you pulsar
+[1/8/2012 10:12:16 PM] <Sync>: !fml
+[1/8/2012 10:12:19 PM] <Sync>: hmm
+[1/8/2012 10:12:20 PM] <Sync>: I don't have op
+[1/8/2012 10:12:22 PM] <Sync>: poot this IRC
+[1/8/2012 10:12:29 PM] <alex>: try
+[1/8/2012 10:12:30 PM] <Sync>: /quit forever
+[1/8/2012 10:12:46 PM] <alex>: try
+[1/8/2012 10:12:51 PM] <Sync>: !fml
+[1/8/2012 10:12:59 PM] <alex>: lol
+[1/8/2012 10:13:00 PM] <Sync>: lol
+[1/8/2012 10:13:03 PM] <alex>: !fml
+[1/8/2012 10:13:10 PM] <alex>: best command i ever made
+[1/8/2012 10:13:37 PM] <Sync>: lol
+[1/8/2012 10:13:45 PM] <Sync>: ok srs I need to read this documentation :(
+[1/8/2012 10:14:07 PM] <Sync>: well first I'm going to DL one of those IDEs
+[1/8/2012 10:14:08 PM] <Sync>: fuck IDLE
+[1/8/2012 10:14:09 PM] <Sync>: so horrible
+[1/8/2012 10:14:15 PM] <Sync>: doesn't even show line numbers lol
+[1/8/2012 10:15:36 PM] <alex>: !join #servcies
+[1/8/2012 10:21:17 PM] <Sync>: lol
+[1/8/2012 10:21:19 PM] <Sync>: nice typo

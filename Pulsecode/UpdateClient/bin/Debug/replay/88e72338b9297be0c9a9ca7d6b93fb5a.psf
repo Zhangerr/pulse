@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<scoredb Version="1">
+  <score>
+    <oks>0</oks>
+    <perfects>109</perfects>
+    <goods>31</goods>
+    <misses>0</misses>
+    <maxc>140</maxc>
+    <totalscore>38280</totalscore>
+    <acc>92.61905</acc>
+    <date>27/10/2011 23:58:21</date>
+    <at>Hatsune Miku - VOiCE</at>
+    <cname>Normal</cname>
+  </score>
+</scoredb>

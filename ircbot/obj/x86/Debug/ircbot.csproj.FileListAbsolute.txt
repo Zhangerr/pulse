@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2010\Projects\ircbot\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2010\Projects\ircbot\bin\Debug\ircbot.exe
+c:\users\alex\documents\visual studio 2010\Projects\ircbot\bin\Debug\ircbot.pdb
+c:\users\alex\documents\visual studio 2010\Projects\ircbot\obj\x86\Debug\ircbot.exe
+c:\users\alex\documents\visual studio 2010\Projects\ircbot\obj\x86\Debug\ircbot.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\ircbot\bin\Debug\ircbot.exe.config

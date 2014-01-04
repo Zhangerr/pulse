@@ -1,0 +1,12 @@
+pulse|a rhythm game coded by matt and alex; it is currently in alpha! feedback is much appreciated
+irc|irc is a place for socializing, but remember there are rules as well. use common sense and be respectful to others
+notechart|feel free to contribute as many notecharts as you would like on the forums!
+editor|use the editor to design and create notecharts
+graphics|we are in desparate need of graphics. please, contribute a skin if you would be so kind.
+abuse|please do not abuse me!
+fml|fml is a site to lighten up your day
+clever|cleverbot is a human
+troll|TBTE.
+help|list of commands: pulse, irc, notechart, editor, graphics, abuse, fml, clever, troll, help
+corin|hi
+pro|professional

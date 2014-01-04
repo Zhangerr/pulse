@@ -1,0 +1,27 @@
+1/19/2012 2:27:37 AM: User : alex Fatal error: Format specifier was invalid.
+   at System.Number.FormatSingle(Single value, String format, NumberFormatInfo info)
+   at System.Single.ToString(String format)
+   at Pulse.UI.UserDisplay.update(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\UI\UserDisplay.cs:line 76
+   at Pulse.Screens.UserDisplayScreen.OnUpdateFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Screens\UserDisplayScreen.cs:line 31
+   at Pulse.Game.OnUpdateFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 439
+   at OpenTK.GameWindow.OnUpdateFrameInternal(FrameEventArgs e)
+   at OpenTK.GameWindow.RaiseUpdateFrame(Stopwatch update_watch, Double& next_update, FrameEventArgs update_args)
+   at OpenTK.GameWindow.DispatchUpdateAndRenderFrame(Object sender, EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 856
+1/23/2012 6:52:43 PM: User : alex Fatal error: Object reference not set to an instance of an object.
+   at Pulse.Game.OnUpdateFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 559
+   at OpenTK.GameWindow.OnUpdateFrameInternal(FrameEventArgs e)
+   at OpenTK.GameWindow.RaiseUpdateFrame(Stopwatch update_watch, Double& next_update, FrameEventArgs update_args)
+   at OpenTK.GameWindow.DispatchUpdateAndRenderFrame(Object sender, EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 876
+1/23/2012 6:55:45 PM: User : n/a Fatal error: Value cannot be null.
+   at System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   at System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   at Pulse.Game.OnUpdateFrame(FrameEventArgs e) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 559
+   at OpenTK.GameWindow.OnUpdateFrameInternal(FrameEventArgs e)
+   at OpenTK.GameWindow.RaiseUpdateFrame(Stopwatch update_watch, Double& next_update, FrameEventArgs update_args)
+   at OpenTK.GameWindow.DispatchUpdateAndRenderFrame(Object sender, EventArgs e)
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at Pulse.Game.Main(String[] args) in C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Game.cs:line 882

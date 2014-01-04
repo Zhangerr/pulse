@@ -1,0 +1,13 @@
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Updater\bin\Debug\Updater.exe
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Updater\bin\Debug\Updater.pdb
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Updater\bin\Debug\DiffieHellman.dll
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Updater\bin\Debug\Org.Mentalis.Security.dll
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Updater\bin\Debug\Tamir.SharpSSH.dll
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Updater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Updater\obj\x86\Debug\Updater.Form1.resources
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Updater\obj\x86\Debug\Updater.hashcalc.resources
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Updater\obj\x86\Debug\Updater.Properties.Resources.resources
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Updater\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Updater\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Updater\obj\x86\Debug\Updater.exe
+C:\Users\Alex\Desktop\9292pulse\Pulse\Pulsecode\Updater\obj\x86\Debug\Updater.pdb
