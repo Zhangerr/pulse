@@ -9,8 +9,10 @@ Pulse was actively developed from 2011-2012 and in its final stages had online c
     -  showed scoreboards for each of these user submitted charts
 -  a forum that once registered the same details could be used to login in game and on the custom website
 -  a custom server that allowed spectating and watching replays and viewing scoreboards in game
--  a high level of customizability (users could replace visual elements of the user interface as they see fit and distribute these customizations as 'skins). Used lua as well
+-  a high level of customizability: users could replace visual elements of the user interface as they see fit and distribute these customizations as 'skins. Used Lua to define customizations to allow programmatic randomization or generation
 -  an custom updater that compared md5 hashes to do incremental updates, only updating the changed, and a tool to push out updates easily
+-  in game editor that allowed users to create charts while playing, pausing, rewinding, and fast forwarding music
+-  custom file format for charts with parser and generator
 
 However, due to unfortunate circumstances, the server and the corresponding services it hosted (web site/forums, irc, the pulse server) were shut down and deleted
  
