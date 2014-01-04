@@ -5,8 +5,9 @@ Pulse was actively developed from 2011-2012 and in its final stages had online c
 -  integrated with IRC (people in game could chat with people connecting to the irc channel via traditional clients and vice versa), 
 -  a custom web site (that allowed users to submit custom content [called charts, which contained a song usually in mp3 form and corresponding user created input data that would generate the notes falling down the screen], showed chart submissions, and scoreboards for each of these user submitted charts), 
 -  a forum,
--  a custom server,
+-  a custom server, spectating and watching replays and viewing scoreboards in game
 -  and a high level of customizability (users could replace visual elements of the user interface as they see fit and distribute these customizations as 'skins). Used lua as well
+-  an custom updater that compared md5 hashes to do incremental updates, only updating the changed
 
  However, due to unfortunate circumstances, the server and the corresponding services it hosted (web site/forums, irc, the pulse server) were shut down and deleted
  
@@ -22,7 +23,7 @@ I've been trying to get Pulse running on my new computer, but it seems the Lua i
 -  OpenTK forums
 -  AviFile
 
-### Videos
+### Videos (add timestamps to see how development progressed, shame no examples of networking functionality, in game scores, spectating, watching replays, chat)
 
 
 http://www.youtube.com/watch?v=hwhB4Sii6ZI
