@@ -14,7 +14,7 @@ Pulse was actively developed from 2011-2012 by me (Alex Zhang) and a friend I me
 -  in game editor that allowed users to create charts while playing, pausing, rewinding, and fast forwarding music (lines represented snapping)
 -  custom file format for charts with parser and generator
 
-However, due to unfortunate circumstances, the server and the corresponding services it hosted (web site/forums, irc, the pulse server) were shut down and deleted
+However, due to unfortunate circumstances, the server and the corresponding services it hosted (web site/forums, irc, the pulse server) were shut down and deleted. An archive of the forum (that has no formatting) can be found [here](http://web.archive.org/web/20111012013020/http://rep.ulse.net/) and an archive of the blog can be found [here](http://web.archive.org/web/20111012013020/http://imp.ulse.net/)
  
 I've been trying to get Pulse running on my new computer, but it seems the Lua interpreter we're using has some dependency that my old computer somehow satisfied but my new one cannot, even after installing the required C++ redistributable.
 
