@@ -1,6 +1,6 @@
 Pulse: a rhythm game using OpenTK (OpenGL wrapper), C#, BASS.NET, and Lua
 ====
-Pulse was actively developed from 2011-2012 by me (Alex Zhang) and a friend I met from England ([Matt](https://github.com/aevv)); and in its final stages had online capabilities. A summary of some of its features are as follows:
+Pulse was actively developed from 2011-2012 by me (Alex Zhang) and a friend I met from England ([Matt](https://github.com/aevv)); and in its final stages had online capabilities. It was originally close sourced and used Team Foundation Server as version control. A summary of some of its features are as follows:
 
 -  integrated with IRC (people in game could chat with people connecting to the irc channel via traditional clients and vice versa), 
 -  a custom web site that 
